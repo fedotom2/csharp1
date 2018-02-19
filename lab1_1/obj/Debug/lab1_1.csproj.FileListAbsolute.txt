@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\lab1_1\lab1_1\bin\Debug\lab1_1.exe.config
+C:\Users\User\source\repos\lab1_1\lab1_1\bin\Debug\lab1_1.exe
+C:\Users\User\source\repos\lab1_1\lab1_1\bin\Debug\lab1_1.pdb
+C:\Users\User\source\repos\lab1_1\lab1_1\obj\Debug\lab1_1.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\lab1_1\lab1_1\obj\Debug\lab1_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab1_1\lab1_1\obj\Debug\lab1_1.exe
+C:\Users\User\source\repos\lab1_1\lab1_1\obj\Debug\lab1_1.pdb
+C:\Users\User\source\repos\lab1_1\lab1_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\lab1_1\lab1_1\bin\Debug\Newtonsoft.Json.xml
